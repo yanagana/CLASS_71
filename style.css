@@ -31,3 +31,7 @@ float: right;
 .achievment_text span{
    color: aquamarine;
 }
+#contact iframe
+{
+   width: 100%;
+}
